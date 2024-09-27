@@ -5,7 +5,7 @@
 en: &DEFAULT_EN
   page                       : "Page"
   pagination_previous        : "Previous"
-  pagination_next            : "Next"git
+  pagination_next            : "Next"
   breadcrumb_home_label      : "Home"
   breadcrumb_separator       : "/"
   toc_label                  : "On This Page"
