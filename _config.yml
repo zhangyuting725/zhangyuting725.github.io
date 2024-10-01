@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Yuting Zhang 章玉婷"
+title                    : "Academic homepage"
 title_separator          : "-"
 name                     : &name "Yuting Zhang"
 description              : &description "a first year phd student  at Artificial Intelligence Thrust, The Hong Kong University of Science and Technology (Guangzhou)"
@@ -22,7 +22,7 @@ repository               : "zhangyuting725/zhangyuting725.github.io"
 author:
   # Biographic information
   avatar           : "zyt.png"
-  name             : "Yuting Zhang"
+  name             : #"Yuting Zhang"
   pronouns         : # example: "she/her"  
   bio              : #"a first phd student of The Hong Kong University of Science and Technology (Guangzhou)"
   location         : "China"
