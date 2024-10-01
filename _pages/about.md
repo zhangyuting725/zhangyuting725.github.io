@@ -8,7 +8,7 @@ redirect_from:
 
 ---
 
-Yuting zhang is currently a first year PhD candidate  at Artificial Intelligence Thrust, [The Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/zh/). She received the master degree from the Institute of Computing Technology, Chinese Academy of Sciences, China. Prior to that, she received her B.E. degree from Beihang University, China. Her general research interests include data mining and machine learning, with a focus on recommender systems and LLM. She has published prolifically in prestigious refereed journals and top-tier conference Proceedings such as ACM Transactions on Information Systems (TOIS), SIGKDD, ACM MM, etc. 
+Yuting zhang is currently a first year PhD candidate  at Artificial Intelligence Thrust, [The Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/zh/). She received the master degree from the Institute of Computing Technology, Chinese Academy of Sciences, China. Prior to that, she received her B.E. degree from Beihang University, China. Her general research interests include data mining and machine learning, with a focus on recommender systems. She has published prolifically in prestigious refereed journals and top-tier conference Proceedings such as ACM Transactions on Information Systems (TOIS), SIGKDD, ACM MM, etc. 
 
 E-mail:  zhangyuting0725@foxmail.com
 
